@@ -1,7 +1,7 @@
 {
   "name": "sampletextgen",
   "version": "0.1.0",
-  "homepage": "https://tanya61098.Sample-Text-Generator.github.io",
+  "homepage": "https://tanya61098.github.io/Sample-Text-Generator",
   "private": true,
   "devDependencies": {
     "gh-pages": "^5.0.0",
